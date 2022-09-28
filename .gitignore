@@ -1,0 +1,4 @@
+*.class
+*.jar
+dist/
+out/
